@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.venv/
+datascience_env/
+*_env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
